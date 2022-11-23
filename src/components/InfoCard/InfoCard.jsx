@@ -8,7 +8,7 @@ export const InfoCard = () => {
         <h4>Your Info</h4>
         <div>
         <UilPen width='1.2rem'/>
-
+        
         </div>
       </div>
       <div className="info">
